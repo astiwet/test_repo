@@ -1,0 +1,11 @@
+
+
+Name Symbol:          Kirillitsa, Latinitsa, Dash, With sing mark, whitespace
+Name Quantity:        1, 256, 13, 136, 6
+Photo Format:         JPG, PNG
+Photo Size:           1, 500, 24, 136, 6
+Discription Symbol:   Kirillitsa, Latinitsa, Dash, With sing mark, whitespace
+Discription Quantity: 1, 1000, 0, 256, 15
+For:                  Boy, Men, Women, Girl, Another
+Event:                BD, Christ, Other
+
